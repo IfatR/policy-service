@@ -158,7 +158,6 @@ To see the PolicyController in action:
 
 ```bash
 npm run build
-node dist/policy-example.js
 ```
 
 Note: Make sure MongoDB is running locally or update the connection string in the example.
