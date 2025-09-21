@@ -1,6 +1,4 @@
-# TypeScript Hello World with AWS IoT Policy Distribution
-
-A TypeScript project demonstrating basic TypeScript features and AWS IoT Core integration for distributing policies to agents.
+# TypeScript Policy Managemnt Service
 
 ## Features
 
