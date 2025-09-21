@@ -151,15 +151,13 @@ interface PolicyResponse {
 - `src/policy-types.ts` - TypeScript interfaces and types
 - `src/policy-model.ts` - Mongoose schema and model definitions
 - `src/policy-controller.ts` - Main CRUD controller class
-- `src/policy-example.ts` - Usage examples and demonstrations
 
-## Running the Example
+## Running the Service
 
 To see the PolicyController in action:
 
 ```bash
 npm run build
-node dist/policy-example.js
 ```
 
 Note: Make sure MongoDB is running locally or update the connection string in the example.
